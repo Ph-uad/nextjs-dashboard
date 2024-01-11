@@ -1,10 +1,11 @@
-import {
-  BanknotesIcon,
+import { 
   ClockIcon,
   UserGroupIcon,
   InboxIcon,
+  BanknotesIcon,
 } from '@heroicons/react/24/outline';
-import { lusitana } from '@/app/ui/fonts';
+import { lusitana } from '../font';
+ 
 
 const iconMap = {
   collected: BanknotesIcon,
